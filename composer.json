@@ -1,5 +1,5 @@
 {
-    "name": "ulise/proyecto-mvc-uli",
+    "name": "iker/proyecto-mvc-iker",
     "description": "Proyecto MVC",
     "type": "project",
     "autoload": {
@@ -12,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "Ulises",
-            "email": "ulises.uriel2110@gmail.com"
+            "name": "iker daniel de la cruz peñaloza",
+            "email": "ikerdanieldelacruz@gmail.com"
         }
     ],
     "require": {
